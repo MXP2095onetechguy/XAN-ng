@@ -1,5 +1,8 @@
+# Ada is never used but for fun, add this
 # Object file
 *.o
 
 # Ada Library Information
 *.ali
+
+# So this is c#
